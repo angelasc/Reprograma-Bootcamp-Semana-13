@@ -2,10 +2,37 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-<h1 align="center">  Estatística com Python - Testes de Hipóteses 🧪📊 </h1>
-<h3 align="center">  Turma ON29 | Python | Semana 12 | 2024 | Professora Camila Ribeiro  </h3>
-
 <br>
+
+
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios para Casa 
+Turma Online on29 | Semana 08 | 2024 | Professora Camila Ribeiro
+
+Este repositório contém os exercícios desenvolvidos durante a **Semana 08** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+
+## 📌 Descrição
+Nesta semana, aprofundamos o conhecimento em Estatística Inferencial, com o objetivo de tirar conclusões sobre dados amostrais e fazer previsões. Exploramos como utilizar Testes de Hipóteses para validar suposições sobre dados e calcular Intervalos de Confiança. Também abordamos a análise de correlação para entender a relação entre diferentes variáveis.
+
+## 🎯 Objetivos do projeto
+- Aplicar Testes de Hipóteses para validar suposições em amostras de dados.
+- Calcular Intervalos de Confiança para estimar parâmetros populacionais.
+- Analisar a Correlação entre variáveis para entender a relação entre elas.
+- Utilizar ferramentas estatísticas em Python para realizar esses cálculos e análises.
+
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+- main.py: Código principal onde os testes de hipóteses, intervalos de confiança e cálculos de correlação são realizados.
+- data.csv: Arquivo de dados utilizado para as operações estatísticas (se aplicável).
+- requirements.txt: Arquivo contendo dependências necessárias para o projeto.
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem de programação utilizada para realizar os cálculos e análise estatística.
+- Pandas: Biblioteca para manipulação e análise de dados.
+- NumPy: Biblioteca para operações matemáticas e estatísticas.
+- SciPy: Biblioteca que contém funções para realizar testes de hipóteses e outras análises estatísticas.
+- Matplotlib/Seaborn: Bibliotecas para visualização de dados e distribuições.
+
 
 ### Instruções
 
