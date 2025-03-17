@@ -7,9 +7,9 @@
 
 # Reprograma | Bootcamp de Análise de Dados
 ## 🚀 Exercícios para Casa 
-Turma Online on29 | Semana 08 | 2024 | Professora Camila Ribeiro
+Turma Online on29 | Semana 13 | 2024 | Professora Camila Ribeiro
 
-Este repositório contém os exercícios desenvolvidos durante a **Semana 08** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+Este repositório contém os exercícios desenvolvidos durante a **Semana 13** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
 
 ## 📌 Descrição
 Nesta semana, aprofundamos o conhecimento em Estatística Inferencial, com o objetivo de tirar conclusões sobre dados amostrais e fazer previsões. Exploramos como utilizar Testes de Hipóteses para validar suposições sobre dados e calcular Intervalos de Confiança. Também abordamos a análise de correlação para entender a relação entre diferentes variáveis.
